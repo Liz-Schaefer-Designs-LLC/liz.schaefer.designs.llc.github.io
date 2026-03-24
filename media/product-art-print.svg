@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f0fbfa"/>
+  <!-- Print frame -->
+  <rect x="85" y="70" width="230" height="230" rx="2" fill="#fff" stroke="#d0d0d0" stroke-width="6"/>
+  <rect x="95" y="80" width="210" height="210" rx="2" fill="#f8f8f8"/>
+  <!-- Botanical illustration style -->
+  <!-- Stem -->
+  <path d="M200 275 Q195 230 200 190 Q205 150 200 120" stroke="#3DBDB5" stroke-width="3" fill="none"/>
+  <!-- Leaves -->
+  <path d="M200 200 Q230 185 245 165 Q220 170 200 200" fill="#3DBDB5" opacity="0.6"/>
+  <path d="M200 220 Q170 205 155 185 Q180 190 200 220" fill="#3DBDB5" opacity="0.5"/>
+  <path d="M200 170 Q228 155 240 135 Q215 142 200 170" fill="#3DBDB5" opacity="0.55"/>
+  <path d="M200 185 Q172 170 160 150 Q185 157 200 185" fill="#3DBDB5" opacity="0.45"/>
+  <!-- Flower -->
+  <circle cx="200" cy="125" r="8" fill="#FF6B6B" opacity="0.8"/>
+  <ellipse cx="200" cy="110" rx="6" ry="10" fill="#FF6B6B" opacity="0.6"/>
+  <ellipse cx="213" cy="118" rx="6" ry="10" fill="#FF6B6B" opacity="0.55" transform="rotate(50 213 118)"/>
+  <ellipse cx="187" cy="118" rx="6" ry="10" fill="#FF6B6B" opacity="0.55" transform="rotate(-50 187 118)"/>
+  <!-- Mat area below -->
+  <text x="200" y="340" text-anchor="middle" font-family="Georgia,serif" font-size="13" fill="#7A7A7A" opacity="0.5">Art Print</text>
+  <text x="200" y="375" text-anchor="middle" font-family="Georgia,serif" font-size="17" fill="#7A7A7A" opacity="0.7">Botanical Print</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#fff0ee"/>
+  <!-- T-shirt silhouette -->
+  <path d="M130 140 L100 100 L160 100 L200 120 L240 100 L300 100 L270 140 L255 140 L255 300 L145 300 L145 140 Z"
+        fill="#FF6B6B" opacity="0.7"/>
+  <path d="M130 140 L100 100 L160 100 L200 120 L240 100 L300 100 L270 140 L255 140 L255 300 L145 300 L145 140 Z"
+        stroke="#FF6B6B" stroke-width="2" fill="none"/>
+  <!-- Design on shirt -->
+  <circle cx="200" cy="210" r="35" fill="#fff" opacity="0.6"/>
+  <text x="200" y="217" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#FF6B6B" opacity="0.9">✦</text>
+  <text x="200" y="360" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#FF6B6B" opacity="0.7">Custom T-Shirt</text>
+</svg>

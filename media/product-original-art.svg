@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#fef6f0"/>
+  <!-- Canvas frame -->
+  <rect x="90" y="80" width="220" height="220" rx="4" fill="#fff" stroke="#e8e0d8" stroke-width="3"/>
+  <rect x="98" y="88" width="204" height="204" rx="2" fill="#fdf0ea"/>
+  <!-- Abstract watercolor-style art -->
+  <ellipse cx="160" cy="160" rx="55" ry="45" fill="#3DBDB5" opacity="0.35"/>
+  <ellipse cx="200" cy="175" rx="60" ry="50" fill="#FF6B6B" opacity="0.3"/>
+  <ellipse cx="235" cy="150" rx="45" ry="40" fill="#f9c846" opacity="0.35"/>
+  <ellipse cx="185" cy="195" rx="50" ry="35" fill="#3DBDB5" opacity="0.25"/>
+  <!-- Easel legs -->
+  <line x1="200" y1="300" x2="165" y2="370" stroke="#7A7A7A" stroke-width="5" stroke-linecap="round"/>
+  <line x1="200" y1="300" x2="235" y2="370" stroke="#7A7A7A" stroke-width="5" stroke-linecap="round"/>
+  <line x1="165" y1="345" x2="235" y2="345" stroke="#7A7A7A" stroke-width="3" stroke-linecap="round"/>
+  <text x="200" y="395" text-anchor="middle" font-family="Georgia,serif" font-size="17" fill="#7A7A7A" opacity="0.7">Original Artwork</text>
+</svg>

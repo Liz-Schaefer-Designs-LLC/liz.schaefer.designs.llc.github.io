@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#e8faf9"/>
+  <rect x="120" y="100" width="160" height="140" rx="12" fill="#3DBDB5" opacity="0.6"/>
+  <rect x="140" y="120" width="120" height="100" rx="8" fill="#3DBDB5" opacity="0.4"/>
+  <circle cx="200" cy="165" r="30" fill="#fff" opacity="0.7"/>
+  <path d="M185 165 L195 175 L218 152" stroke="#3DBDB5" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="130" y="265" width="140" height="14" rx="7" fill="#3DBDB5" opacity="0.5"/>
+  <rect x="155" y="290" width="90" height="10" rx="5" fill="#7A7A7A" opacity="0.3"/>
+  <text x="200" y="350" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#3DBDB5" opacity="0.7">Handmade Sticker</text>
+</svg>

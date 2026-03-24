@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f0fbfa"/>
+  <!-- Greeting card -->
+  <rect x="85" y="100" width="230" height="170" rx="8" fill="#fff" stroke="#e8e0d8" stroke-width="2"
+        filter="drop-shadow(2px 4px 6px rgba(0,0,0,0.08))"/>
+  <!-- Card fold line -->
+  <line x1="200" y1="100" x2="200" y2="270" stroke="#e8e0d8" stroke-width="1" stroke-dasharray="4,4"/>
+  <!-- Floral decoration on card -->
+  <circle cx="155" cy="185" r="22" fill="#3DBDB5" opacity="0.15"/>
+  <circle cx="155" cy="185" r="12" fill="#3DBDB5" opacity="0.35"/>
+  <circle cx="140" cy="172" r="9" fill="#FF6B6B" opacity="0.5"/>
+  <circle cx="170" cy="168" r="8" fill="#FF6B6B" opacity="0.45"/>
+  <circle cx="145" cy="200" r="7" fill="#f9c846" opacity="0.6"/>
+  <circle cx="168" cy="200" r="7" fill="#3DBDB5" opacity="0.5"/>
+  <!-- Text lines on right half -->
+  <rect x="218" y="155" width="80" height="8" rx="4" fill="#3DBDB5" opacity="0.3"/>
+  <rect x="218" y="172" width="65" height="6" rx="3" fill="#7A7A7A" opacity="0.2"/>
+  <rect x="218" y="186" width="72" height="6" rx="3" fill="#7A7A7A" opacity="0.2"/>
+  <rect x="218" y="200" width="55" height="6" rx="3" fill="#7A7A7A" opacity="0.2"/>
+  <!-- Envelope below -->
+  <rect x="110" y="280" width="180" height="70" rx="4" fill="#f9f0ea" stroke="#e8e0d8" stroke-width="2"/>
+  <path d="M110 280 L200 330 L290 280" stroke="#e8e0d8" stroke-width="2" fill="none"/>
+  <text x="200" y="380" text-anchor="middle" font-family="Georgia,serif" font-size="17" fill="#3DBDB5" opacity="0.7">Greeting Card Set</text>
+</svg>
